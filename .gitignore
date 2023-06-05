@@ -1,0 +1,19 @@
+#IDEs
+.idea/
+.project
+.classpath
+.settings/
+/*.iml
+
+**/.DS_Store
+
+.vscode
+bin/
+
+#local config
+src/main/resources/application-local.properties
+/.envrc
+
+target/
+release.properties
+pom.xml.releaseBackup
